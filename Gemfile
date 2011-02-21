@@ -14,6 +14,7 @@ end
 group :test do
   gem 'rspec', '2.5.0'
   gem 'webrat', '0.7.1'
+end
 
 # Use unicorn as the web server
 # gem 'unicorn'
@@ -36,4 +37,4 @@ group :test do
 # and rake tasks are available in development mode:
 # group :development, :test do
 #   gem 'webrat'
-# end
+#  end
